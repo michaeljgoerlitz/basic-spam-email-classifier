@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+*.pyc
+*.log
+*.pkl  # To ignore the model pipeline file
+spam-classifier-app/node_modules
+spam-classifier/
+env/
+spam_classifier.pkl
